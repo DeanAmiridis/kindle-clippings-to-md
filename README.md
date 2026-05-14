@@ -51,7 +51,7 @@ Or simply download the script manually.
 Run the script:
 
 ```bash
-python3 kindle_clippings_to_md.py
+python3 kindle-clippings-to-md.py
 ```
 
 The script will prompt for:
